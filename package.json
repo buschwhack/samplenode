@@ -6,6 +6,6 @@
     "author": "john busch",
     "scripts": {
         "start": "node index.js"
-    }
+    },
 	"main": "index.js"
 }
