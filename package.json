@@ -1,0 +1,11 @@
+{
+    "name": "hello-worldopenshift",
+    "description": "Simple Hello World Node.js sample for Open shift",
+    "version": "0.0.1",
+    "private": true,
+    "author": "john busch",
+    "scripts": {
+        "start": "node index.js"
+    }
+	"main": "index.js"
+}
